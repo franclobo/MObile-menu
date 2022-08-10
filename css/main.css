@@ -571,6 +571,7 @@ textarea {
   bottom: 7%;
   right: 0;
   margin: 0;
+  z-index: 10;
 }
 
 .hide {
@@ -588,6 +589,7 @@ textarea {
   margin: 0 6% 6% 6%;
   text-decoration: none;
   padding-left: 4%;
+  text-align: left;
 }
 
 .dropdown-option a {
